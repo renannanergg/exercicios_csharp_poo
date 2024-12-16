@@ -1,6 +1,6 @@
 // Desenvolver uma classe que modele um carro, e que contenha os métodos acelerar, frear e buzinar
 
-namespace CriarCarro
+namespace CriarCarro.Modelos
 {
     public class Carro
     {

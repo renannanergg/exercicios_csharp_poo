@@ -1,4 +1,6 @@
-﻿namespace Principal
+﻿using OficinaDeCarros.Modelos;
+
+namespace Principal
 {
     public static class ProgramaPrincipal
     {
@@ -50,6 +52,28 @@
             // CatalogoJogos catalogo = new CatalogoJogos();
             // catalogo.AdicionarJogo("Rainbow Six","PS5","FPS",2015);
             // catalogo.ListarJogos();
+
+            //****Sétimo Exercicio
+            // Pet bulldog = new Pet("Cachorro","Johnny","Bulldog Inglês","Médio","Marrom",8);
+            // bulldog.ExibirFichaPet();
+            // Dono renan = new Dono("Renan",bulldog,997087748,"Rua das Ruas");
+            // renan.ExibirFichaDono();
+            // Medico joana = new Medico("Dra. Joana","Cachorros");
+            // Consulta consulta = new Consulta(bulldog,renan,"17/12/2024",joana);
+            // consulta.ExibirFichaConsulta();
+
+            //****Oitavo Exercicio
+            // Veiculo hondafit = new Veiculo("Carro","Honda","Fit","Cinza",2016,"ABC1234");
+            // Cliente renan = new Cliente("Renan",hondafit,997087748);
+            // renan.ExibirFichaCLiente();
+            // Mecanico joao = new Mecanico("João");
+            // Oficina oficina = new Oficina();
+            // oficina.AgendarServico(hondafit,renan,joao,"17/12/2024");
+            // oficina.RealizarServico(hondafit,joao);
+            // oficina.ExibirVeiculosDaOficina();
+
+
+
 
         }
     }
