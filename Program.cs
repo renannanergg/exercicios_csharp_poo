@@ -1,4 +1,7 @@
-﻿using OficinaDeCarros.Modelos;
+﻿
+using Animais;
+using Eletronicos;
+using Funcionarios;
 
 namespace Principal
 {
@@ -71,6 +74,50 @@ namespace Principal
             // oficina.AgendarServico(hondafit,renan,joao,"17/12/2024");
             // oficina.RealizarServico(hondafit,joao);
             // oficina.ExibirVeiculosDaOficina();
+
+            //****Nono Exercicio
+            // Gerente gerente = new ("João",128594,9.800)
+            // {
+            //     Setor = "Compras",
+            //     Equipe = 1,
+            // };
+            // gerente.Executar();
+            // Programador programador = new("Pedro",458988,5.500)
+            // {
+            //     Nivel = "Junior",
+            //     Linguagem = "C#",
+            // };
+            // programador.Executar();
+            // Analista analista = new("Maria",865444,7.200)
+            // {
+            //      Nivel = "Pleno",
+            //      Setor = "Marketing",
+            // };
+            // analista.Executar();
+
+            //****Décimo Exercicio
+            // Mamifero tigre = new("Felino","Tigre");
+            // tigre.EmitirSom();
+            // Reptil jacare = new("Alligatoridae","Jacaré");
+            // jacare.EmitirSom();
+            // Ave aguia = new("Ave de Rapina","Aguia");
+            // aguia.EmitirSom();
+
+
+            //****Décimo Primeiro Exercicio
+            // Smartphone iphone15 = new("Iphone 15","Smartphone","Apple",6.800)
+            //  {
+            //      OS = "IOS"
+            //  };
+            // iphone15.ExibirInfo();
+
+            // Videogame play5 = new ("PlayStation 5","Videogame","Sony",5.200)
+            //  {
+            //     Versão = "PRO 4K",
+            //     Memoria = 256,
+            //     Controles = 2
+            //  };
+            // play5.ExibirInfo();
 
 
 
