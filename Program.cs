@@ -2,6 +2,9 @@
 using Animais;
 using Eletronicos;
 using Funcionarios;
+using IArmazenavel;
+using INotificavel;
+using IPagavel;
 
 namespace Principal
 {
@@ -75,7 +78,7 @@ namespace Principal
             // oficina.RealizarServico(hondafit,joao);
             // oficina.ExibirVeiculosDaOficina();
 
-            //****Nono Exercicio
+            // ****Nono Exercicio
             // Gerente gerente = new ("João",128594,9.800)
             // {
             //     Setor = "Compras",
@@ -103,8 +106,7 @@ namespace Principal
             // Ave aguia = new("Ave de Rapina","Aguia");
             // aguia.EmitirSom();
 
-
-            //****Décimo Primeiro Exercicio
+            // ****Décimo Primeiro Exercicio
             // Smartphone iphone15 = new("Iphone 15","Smartphone","Apple",6.800)
             //  {
             //      OS = "IOS"
@@ -119,9 +121,25 @@ namespace Principal
             //  };
             // play5.ExibirInfo();
 
+            //****Décimo Segundo Exercicio
+            // Produto sabonete = new("Sabonete",2,8);
+            // sabonete.RegistroPedido();
+            // Servico instalacao = new("Instalação Ar Condicionado",3,55.5m);
+            // instalacao.NotaFiscalServico();
 
+            //****Décimo Terceiro Exercicio
+            // Email novoemail = new("renan@gmail.com","Reunião remarcada para as 17:00h na sala 5!");
+            // novoemail.EnviarNotificacao();
+            // SMS novosms = new(997087748,"Faça uma aposta hoje e ganhe 10R$ de aposta grátis!!");
+            // novosms.EnviarNotificacao();
 
-
+            //****Décimo Quarto Exercicio
+            // Arquivo arquivoPrincipal = new("Arquivo Principal");
+            // arquivoPrincipal.Recuperar();
+            // arquivoPrincipal.Salvar();
+            // BancoDeDados bancoDeDados01 = new("Banco de Dados Principal");
+            // bancoDeDados01.Recuperar();
+            // bancoDeDados01.Salvar();
         }
     }
 }
