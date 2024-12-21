@@ -1,0 +1,14 @@
+C:\Users\55119\OneDrive\Documentos\GitHub\exercicios_csharp_poo\bin\Debug\net9.0\exercicios_csharp_poo.exe
+C:\Users\55119\OneDrive\Documentos\GitHub\exercicios_csharp_poo\bin\Debug\net9.0\exercicios_csharp_poo.deps.json
+C:\Users\55119\OneDrive\Documentos\GitHub\exercicios_csharp_poo\bin\Debug\net9.0\exercicios_csharp_poo.runtimeconfig.json
+C:\Users\55119\OneDrive\Documentos\GitHub\exercicios_csharp_poo\bin\Debug\net9.0\exercicios_csharp_poo.dll
+C:\Users\55119\OneDrive\Documentos\GitHub\exercicios_csharp_poo\bin\Debug\net9.0\exercicios_csharp_poo.pdb
+C:\Users\55119\OneDrive\Documentos\GitHub\exercicios_csharp_poo\obj\Debug\net9.0\exercicios_csharp_poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\OneDrive\Documentos\GitHub\exercicios_csharp_poo\obj\Debug\net9.0\exercicios_csharp_poo.AssemblyInfoInputs.cache
+C:\Users\55119\OneDrive\Documentos\GitHub\exercicios_csharp_poo\obj\Debug\net9.0\exercicios_csharp_poo.AssemblyInfo.cs
+C:\Users\55119\OneDrive\Documentos\GitHub\exercicios_csharp_poo\obj\Debug\net9.0\exercicios_csharp_poo.csproj.CoreCompileInputs.cache
+C:\Users\55119\OneDrive\Documentos\GitHub\exercicios_csharp_poo\obj\Debug\net9.0\exercicios_csharp_poo.dll
+C:\Users\55119\OneDrive\Documentos\GitHub\exercicios_csharp_poo\obj\Debug\net9.0\refint\exercicios_csharp_poo.dll
+C:\Users\55119\OneDrive\Documentos\GitHub\exercicios_csharp_poo\obj\Debug\net9.0\exercicios_csharp_poo.pdb
+C:\Users\55119\OneDrive\Documentos\GitHub\exercicios_csharp_poo\obj\Debug\net9.0\exercicios_csharp_poo.genruntimeconfig.cache
+C:\Users\55119\OneDrive\Documentos\GitHub\exercicios_csharp_poo\obj\Debug\net9.0\ref\exercicios_csharp_poo.dll

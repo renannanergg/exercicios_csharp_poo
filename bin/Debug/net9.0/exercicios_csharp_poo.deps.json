@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "exercicios_csharp_poo/1.0.0": {
+        "runtime": {
+          "exercicios_csharp_poo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exercicios_csharp_poo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
