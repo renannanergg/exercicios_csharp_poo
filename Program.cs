@@ -24,6 +24,10 @@ class Program
         Console.WriteLine("14 - Exercício IArmazenavél");
         Console.WriteLine("15 - Exercício API CheapShark");
         Console.WriteLine("16 - Exercício Divisão");
+        Console.WriteLine("17 - Exercício API Filmes");
+        Console.WriteLine("18 - Exercício API Países");
+        Console.WriteLine("19 - Exercício API Livros");
+
         Console.WriteLine("0 - Sair");
 
         Console.Write("Digite a opção: ");
@@ -110,6 +114,21 @@ class Program
                 Console.Clear();
                 ExercicioDivisao exercicioDivisao = new();
                 exercicioDivisao.Executar();
+                break;
+            case 17:
+                Console.Clear();
+                ExercicioAPIFilmes exercicioAPIFilmes = new();
+                await exercicioAPIFilmes.ExecutarAsync();
+                break;
+            case 18:
+                Console.Clear();
+                ExercicioAPIPaises exercicioAPIPaises = new();
+                await exercicioAPIPaises.ExecutarAsync();
+                break;
+            case 19:
+                Console.Clear();
+                ExercicioAPILivros exercicioAPILivros = new();
+                await exercicioAPILivros.ExecutarAsync();
                 break;
             case 0:
                 return;

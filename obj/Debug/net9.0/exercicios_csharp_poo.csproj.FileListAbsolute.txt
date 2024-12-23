@@ -12,3 +12,4 @@ C:\Users\55119\OneDrive\Documentos\GitHub\exercicios_csharp_poo\obj\Debug\net9.0
 C:\Users\55119\OneDrive\Documentos\GitHub\exercicios_csharp_poo\obj\Debug\net9.0\exercicios_csharp_poo.pdb
 C:\Users\55119\OneDrive\Documentos\GitHub\exercicios_csharp_poo\obj\Debug\net9.0\exercicios_csharp_poo.genruntimeconfig.cache
 C:\Users\55119\OneDrive\Documentos\GitHub\exercicios_csharp_poo\obj\Debug\net9.0\ref\exercicios_csharp_poo.dll
+C:\Users\55119\OneDrive\Documentos\GitHub\exercicios_csharp_poo\obj\Debug\net9.0\exercicios_csharp_poo.sourcelink.json
