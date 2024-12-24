@@ -27,8 +27,12 @@ class Program
         Console.WriteLine("17 - Exercício API Filmes");
         Console.WriteLine("18 - Exercício API Países");
         Console.WriteLine("19 - Exercício API Livros");
+        Console.WriteLine("20 - Exercício Consulta LINQ Numeros");
+        Console.WriteLine("21 - Exercício Consulta LINQ Livros");
+        Console.WriteLine("22 - Exercício Consulta LINQ Preços");
+        Console.WriteLine("23 - Exercício Consulta LINQ Pares");
 
-        Console.WriteLine("0 - Sair");
+        Console.WriteLine("\n0 - Sair");
 
         Console.Write("Digite a opção: ");
         int opcao = int.Parse(Console.ReadLine()!);
@@ -129,6 +133,26 @@ class Program
                 Console.Clear();
                 ExercicioAPILivros exercicioAPILivros = new();
                 await exercicioAPILivros.ExecutarAsync();
+                break;
+            case 20:
+                Console.Clear();
+                ExercicioLinqNumeros exercicioLinqNumeros = new();
+                exercicioLinqNumeros.Executar();
+                break;
+            case 21:
+                Console.Clear();
+                ExercicioLinqLivros exercicioLinqLivros = new();
+                exercicioLinqLivros.Executar();
+                break;
+            case 22:
+                Console.Clear();
+                ExercicioLinqPrecos exercicioLinqPrecos = new();
+                exercicioLinqPrecos.Executar();
+                break;
+            case 23:
+                Console.Clear();
+                ExercicioLinqPares exercicioLinqPares = new();
+                exercicioLinqPares.Executar();
                 break;
             case 0:
                 return;
