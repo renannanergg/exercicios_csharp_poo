@@ -31,7 +31,10 @@ class Program
         Console.WriteLine("21 - Exercício Consulta LINQ Livros");
         Console.WriteLine("22 - Exercício Consulta LINQ Preços");
         Console.WriteLine("23 - Exercício Consulta LINQ Pares");
-
+        Console.WriteLine("24 - Exercício Serializa Cadastro JSON");
+        Console.WriteLine("25 - Exercício Desserializa Cadastro JSON");
+        Console.WriteLine("");
+        Console.WriteLine("");
         Console.WriteLine("\n0 - Sair");
 
         Console.Write("Digite a opção: ");
@@ -153,6 +156,16 @@ class Program
                 Console.Clear();
                 ExercicioLinqPares exercicioLinqPares = new();
                 exercicioLinqPares.Executar();
+                break;
+            case 24:
+                Console.Clear();
+                ExercicioSerializaCadastro serializaCadastro = new();
+                serializaCadastro.Executar();
+                break;
+            case 25:
+                Console.Clear();
+                ExercicioDesserializaCadastro desserializaCadastro = new();
+                desserializaCadastro.Executar();
                 break;
             case 0:
                 return;
