@@ -33,8 +33,8 @@ class Program
         Console.WriteLine("23 - Exercício Consulta LINQ Pares");
         Console.WriteLine("24 - Exercício Serializa Cadastro JSON");
         Console.WriteLine("25 - Exercício Desserializa Cadastro JSON");
-        Console.WriteLine("");
-        Console.WriteLine("");
+        Console.WriteLine("26 - Exercício Média Array");
+        Console.WriteLine();
         Console.WriteLine("\n0 - Sair");
 
         Console.Write("Digite a opção: ");
@@ -166,6 +166,11 @@ class Program
                 Console.Clear();
                 ExercicioDesserializaCadastro desserializaCadastro = new();
                 desserializaCadastro.Executar();
+                break;
+            case 26:
+                Console.Clear();
+                ExercicioMediaArray mediaArray = new();
+                mediaArray.Executar();
                 break;
             case 0:
                 return;
